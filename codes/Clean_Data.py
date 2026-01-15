@@ -6,3 +6,10 @@ def load_data():
 
 def prorcessing():
   print("processing the files")
+
+def visual():
+  print("Crating the visuals...")
+
+def launch():
+  print("Website is online")
+  
