@@ -1,0 +1,16 @@
+*   089639e Changes done
+|\  
+| * f7b1a73 modified clean_data.py
+| * ffb3fd6 Python_List_Practice_Day3
+* |   875d49c Merged helper branch
+|\ \  
+| * | e92d59c added load_data function
+* | | 829c8e8 Added visual function
+|/ /  
+* / 4c9c07c My file is ready
+|/  
+* b59e775 added analysis file
+* 97129b0 4 lines added
+* 41b67f9 added main.py file
+* ca9dcef Created data.txt
+* 626768e Initial commit
